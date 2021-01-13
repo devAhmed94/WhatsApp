@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="whatsapp_web">WhatsApp Web</string>
+    <string name="starred_message">Starred message</string>
+    <string name="settings">settings</string>
+    <string name="new_broadcast">New Broadcast</string>
+    <string name="new_group">New Group</string>
+    <string name="search">search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contextual_menu">contextual menu</string>
+</resources>
